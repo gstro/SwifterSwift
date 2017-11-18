@@ -611,6 +611,7 @@
 		07898B511F278CF900558C97 = {
 			isa = PBXGroup;
 			children = (
+				07C50D081F5EB03200F46E5A /* TestResources */,
 				07898B8D1F278E6300558C97 /* Sources */,
 				07C50CF21F5EAF7B00F46E5A /* Tests */,
 				07898B5E1F278D7600558C97 /* Products */,
@@ -723,7 +724,6 @@
 				07C50D241F5EB03200F46E5A /* AppKitTests */,
 				D86A98EE1F7E50C90084EDCD /* SharedTests */,
 				07C50CCD1F5EAF2700F46E5A /* Info.plist */,
-				07C50D081F5EB03200F46E5A /* Resources */,
 				E6325DB41FC0D33600AB60BC /* SwifterSwiftTests */,
 			);
 			path = Tests;
@@ -745,7 +745,7 @@
 			path = FoundationTests;
 			sourceTree = "<group>";
 		};
-		07C50D081F5EB03200F46E5A /* Resources */ = {
+		07C50D081F5EB03200F46E5A /* TestResources */ = {
 			isa = PBXGroup;
 			children = (
 				07C50D091F5EB03200F46E5A /* TestImage.png */,
@@ -753,7 +753,7 @@
 				07C50D0B1F5EB03200F46E5A /* UITableViewCell.xib */,
 				07C50D0C1F5EB03200F46E5A /* UITableViewHeaderFooterView.xib */,
 			);
-			path = Resources;
+			path = TestResources;
 			sourceTree = "<group>";
 		};
 		07C50D0D1F5EB03200F46E5A /* UIKitTests */ = {
