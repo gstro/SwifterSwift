@@ -724,7 +724,7 @@
 				D86A98EE1F7E50C90084EDCD /* SharedTests */,
 				07C50CCD1F5EAF2700F46E5A /* Info.plist */,
 				07C50D081F5EB03200F46E5A /* Resources */,
-				07C50CF81F5EB03200F46E5A /* SwifterSwiftTests.swift */,
+				E6325DB41FC0D33600AB60BC /* SwifterSwiftTests */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -846,6 +846,14 @@
 				07C50D121F5EB03200F46E5A /* ColorExtensionsTests.swift */,
 			);
 			path = SharedTests;
+			sourceTree = "<group>";
+		};
+		E6325DB41FC0D33600AB60BC /* SwifterSwiftTests */ = {
+			isa = PBXGroup;
+			children = (
+				07C50CF81F5EB03200F46E5A /* SwifterSwiftTests.swift */,
+			);
+			path = SwifterSwiftTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
